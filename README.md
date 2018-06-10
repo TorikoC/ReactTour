@@ -1,2 +1,0 @@
-# ReactTour
-Created with CodeSandbox
